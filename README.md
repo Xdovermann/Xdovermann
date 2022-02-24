@@ -1,6 +1,8 @@
-- 👋 Hi, I’m xander ive been a solo indie dev for almost 5 years now my engine of choice is Unity !
-- 👀 I’m interested in anything blockchain related i love especially the NFT/Play to earn stuff!
-- 🌱 I’m currently learning solidity
+- 👋 Hi, I’m xander ive been a solo indie dev for almost 6 years now my engine of choice is Unity !
+- 👀 I’m interested in anything blockchain related I love gamefieng non gamefied ecosystems! 
+- 🌱 Full stack solidity dev 
+
+- Dont waste my time please with proposals. 
 
 - 📫 You can reach me on twitter or telegram my username is : @Ganglyprism
 
